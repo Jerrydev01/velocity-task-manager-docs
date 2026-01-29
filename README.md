@@ -137,7 +137,7 @@ The system leverages PocketBase's real-time subscription capabilities to ensure 
 
 ## Deployment
 
-### Deploy Backend to Render
+### Deploy Backend to Render(optional)
 
 1. Create a Web Service on Render properly Dockerized or using the PocketBase binary.
 2. Update `NEXT_PUBLIC_POCKETBASE_URL` in Vercel.
